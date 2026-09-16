@@ -61,7 +61,7 @@ export default function Home() {
       <header className="header">
         <div>
           <p className="eyebrow">Workspace</p>
-          <h1>Product launch</h1>
+          <h1>Fariz Kanban Board</h1>
           <p className="subtitle">Keep your team moving forward.</p>
         </div>
         <div className="header-actions">
