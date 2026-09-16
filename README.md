@@ -23,3 +23,14 @@ I can't wait to see your changes.
 When you've successfully built a Kanban app, if you'd like to post about it on LinkedIn and tag me, then I'll weigh in to amplify your success and draw more attention to your achievements.
 
 If you see other students doing this, please weigh in yourself to add your support and encouragement. It's so helpful for the community if we support each other.
+
+## Quick Start
+
+```bash
+cd frontend
+npm install
+npm test
+npm run test:e2e
+npm run dev
+```
+Open http://localhost:3000 to view the Kanban board.
